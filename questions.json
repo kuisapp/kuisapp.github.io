@@ -1,0 +1,842 @@
+[
+  {
+    "question": "Dibawah ini yang bukan merupakan pernyataan yang tepat tentang gen adalah …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Semua sifat ditentukan oleh satu gen",
+      "B": "Satu gen mengatur satu sifat",
+      "C": "Batas-batas antargen tidak dapat ditentukan secara pasti",
+      "D": "Jika gen berubah, berubah pula sifat makhluk hidup",
+      "E": "Gen diwariskan"
+    }
+  },
+  {
+    "question": "Di antara pernyataan berikut yang paling tepat untuk menjelaskan fingsi DNA adalah …",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "Secara langsung mengendalikan aktivitas sel-sel dalam merangkai urutan asam amino-asam amino",
+      "B": "Berhubungan erat dengan pengikatan asam amino-asam amino yang akan disusun menjadi protein",
+      "C": "Berhubungan erat dengan penegndalian factor-faktor keturunan dan sintesis protein",
+      "D": "Berhubungan erat dengan sintesis protein dan kadarnya berubah-ubah menurut kecepatan sintesis protein",
+      "E": "Membentuk rangkaian DNA sebagai pembawa informasi kode-kode genetik"
+    }
+  },
+  {
+    "question": "Letak DNA dalam sel, yaitu …",
+    "correct_answer": "E",
+    "image": null,
+    "choices": {
+      "A": "Terletak dalam sitoplasma, inti sel, terutama dalam ribosom",
+      "B": "Terdapat dalam inti sel pada kromosom dan dalam sitoplasma",
+      "C": "Terdapat dalam sitoplasma, terutama dalam ribosom",
+      "D": "Terdapat dalam inti sel, terutama dalam ribosom",
+      "E": "Terdapat dalam inti sel, terutama pada kromosom"
+    }
+  },
+  {
+    "question": "Dua basa pirimidin yang terdapat pada DNA adalah …",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "Urasil dan timin",
+      "B": "Sitosin dan urasil",
+      "C": "Sitosin dan timin",
+      "D": "Adenine dan timin",
+      "E": "Sitosin dan guanine"
+    }
+  },
+  {
+    "question": "Di bawah ini keterangan tentang struktur DNA dan RNA.\n1) Terdapat dalam inti sel dan kromosom\n2) Membentuk rantai tunggal\n3) Berhubungan dengan sintesis protein\n4) Mengandung pirimidin: sitosin dan urasil\n5) Mengandung purin: adenine dan guanine\n6) Komponen gulanya ribose",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "1-2-3",
+      "B": "1-2-4",
+      "C": "1-3-5",
+      "D": "2-4-5",
+      "E": "2-5-6"
+    }
+  },
+  {
+    "question": "Gambar berikut merupakan satu molekul nukleotida. Secara berurutan 1, 2 dan 3 dan rangkaian tersebut adalah …",
+    "correct_answer": "C",
+    "image": "assets/soal/soal6.png",
+    "choices": {
+      "A": "Gula pentose - fosfat - basa nitrogen",
+      "B": "Fosfat - basa nitrogen - gula pentose",
+      "C": "Fosfat - gula pentose - basa nitrogen",
+      "D": "Basa nitrogen - gula pentose - basa nitrogen",
+      "E": "Gula pentose - basa nitrogen - fosfat"
+    }
+  },
+  {
+    "question": "Tabel berikut ini yang menunjukkan perbedaan DNA dan RNA adalah …",
+    "correct_answer": "E",
+    "image": "assets/soal/soal7.png",
+    "choices": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    }
+  },
+  {
+    "question": "Urutan basa nitrogen mRNA hasil transkripsi menggunakan cetakan untai tunggal DNA komplemen dari TGCAATGG adalah…",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "TCGTTACC",
+      "B": "UCGTTUCC",
+      "C": "ACGUUACC",
+      "D": "UGCAAUGG",
+      "E": "ACGTTACC"
+    }
+  },
+  {
+    "question": "Dalam keadaan untai ganda, fragmen DNA yang paling mudah terdenaturasi adalah …",
+    "correct_answer": "E",
+    "image": null,
+    "choices": {
+      "A": "5’ - AGTGAATTAGTT - 3’",
+      "B": "5’ – GATTTAGTTAAG – 3’",
+      "C": "5’ – CTCCCCAATGTAT – 3’",
+      "D": "5’- GCAATGAAATAC – 3’",
+      "E": "5’- GATATAATTAAG – 3’"
+    }
+  },
+  {
+    "question": "Seekor keledai jantan mempunyai 62 kromosom didalam setiap sel somatiknya. Artinya pada setiap sperma terkandung kromosom …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "30 autosom + 1 gonosom (X atau Y)",
+      "B": "31 autosom + 1 gonosom X",
+      "C": "31 pasang autosom + 1 gonosom X",
+      "D": "60 autosom + 1 gonosom X + gonosom Y",
+      "E": "60 autosom + 2 gonosom X"
+    }
+  },
+  {
+    "question": "Jika urutan basa nitrogen pada rantai sense sebuah molekul DNA adalah CCA – CTA – ACA – CTT – TTA, maka urutan basa nitrogen pada mRNA adalah …",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "GGT – GAT – TGT – GAA – AAT",
+      "B": "CCT – CUT – TCT – CUU – UUT",
+      "C": "GGU – GAU – UGU – GAA – AAU",
+      "D": "CCA – CUA – ACA – CUU – UUA",
+      "E": "GGA – GAA – AGA – CTT – TTA"
+    }
+  },
+  {
+    "question": "Tabel berikut adalah daftar kodon dengan asam aminonya. Apabila urutan basa nitrogen DNA yang akan melakukan transkripsi adalah CAC- CCT – CGG – GGT – GTA, urutan asam amino yang akan dibentuk adalah …",
+    "correct_answer": "E",
+    "image": "assets/soal/soal12.png",
+    "choices": {
+      "A": "Serin – valin – glutamin – alanine – prolin",
+      "B": "Valin – alanine –valin – serin – prolin",
+      "C": "Glutamin – alanine – valin – serin – prolin",
+      "D": "Valin – glutamin – alanine – serin – prolin",
+      "E": "Valin – glutamin – alanine – prolin – serin"
+    }
+  },
+  {
+    "question": "Perhatikan diagram proses sintesis berikut. Bagian yang berlabel 1 dan 3 adalah …",
+    "correct_answer": "E",
+    "image": "assets/soal/soal13.png",
+    "choices": {
+      "A": "Replikasi dan translasi",
+      "B": "Replikasi dan transkripsi",
+      "C": "Translasi dan replikasi",
+      "D": "Transkripsi dan replikasi",
+      "E": "Transkripsi dan translasi"
+    }
+  },
+  {
+    "question": "Fase metaphase mempunyai ciri-ciri sebagai berikut …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "Kromosom mulai tampak jelas, selaput inti menghilang",
+      "B": "Terbentuk benang gelendong dan kromosom tersusun pada bidang pembelahan",
+      "C": "Kromosom bergerak kea rah kutub melalui benang gelendong",
+      "D": "Plasma sel mengalami penyempitan dibagia ekuator",
+      "E": "Plasma sel membentuk sekat dibagian ekuator"
+    }
+  },
+  {
+    "question": "Suatu rantai DNA melakukan transkripsi seperti berikut. RNAd yang terbentuk adalah …",
+    "correct_answer": "D",
+    "image": "assets/soal/soal15.png",
+    "choices": {
+      "A": "UUG – GCU – GAU – UGU – UCU",
+      "B": "AAA – CGA – CTA – TGT – TCT",
+      "C": "AAA – CGA – GAU – ACA – AGA",
+      "D": "UUU – GCU – GAU – ACA – AGA",
+      "E": "UUU – GCA – GTA – TGT - UCU"
+    }
+  },
+  {
+    "question": "Kesalahan transkripsi oleh RNA transfer dapat menimbulkan kesalahan pembentukan protein\n<p><h1>SEBAB<h1></p>\nPada proses transkripsi urutan kode genetic dari DNA dibawa oleh RNA transfer ke ribosom tempat terjadinya pembentukan asam amino yang didalamnya termasuk stop kodon adalah UAA, UAG, UGA, sedangkan start kodon adalah AUG.",
+    "correct_answer": "E",
+    "image": null,
+    "choices": {
+      "A": "Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab-akibat",
+      "B": "Berhubungan erat dengan pengikatan asam amino-asam amino yang akan disusun menjadi protein",
+      "C": "Berhubungan erat dengan penegndalian factor-faktor keturunan dan sintesis protein",
+      "D": "Berhubungan erat dengan sintesis protein dan kadarnya berubah-ubah menurut kecepatan sintesis protein",
+      "E": "Membentuk rangkaian DNA sebagai pembawa informasi kode-kode genetik"
+    }
+  },
+  {
+    "question": "Kombinasi kodon triplet dari empat basa nitrogen sesuai pasangannya, dalam rekayasa genetika cukup memberikan kode semua asam amino yang ada di alam.\n<p><h1>SEBAB</h1></p>\nKombinasi empat basa nitrogen menjadi kodon-kodon triplet akan menghasilkan 16 kodon jenis triplet",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab-akibat",
+      "B": "Berhubungan erat dengan pengikatan asam amino-asam amino yang akan disusun menjadi protein",
+      "C": "Berhubungan erat dengan penegndalian factor-faktor keturunan dan sintesis protein",
+      "D": "Berhubungan erat dengan sintesis protein dan kadarnya berubah-ubah menurut kecepatan sintesis protein",
+      "E": "Membentuk rangkaian DNA sebagai pembawa informasi kode-kode genetik"
+    }
+  },
+  {
+    "question": "Sintesis Protein ditentukan oleh kode-kode genetic dari anticodon yang dibawa oleh mRNA.\n<p><h1>SEBAB</h1></p>\nTiap kodon terdiri atas tiga basa nitrogen yang menentukan macam asam amino",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab-akibat",
+      "B": "Berhubungan erat dengan pengikatan asam amino-asam amino yang akan disusun menjadi protein",
+      "C": "Berhubungan erat dengan penegndalian factor-faktor keturunan dan sintesis protein",
+      "D": "Berhubungan erat dengan sintesis protein dan kadarnya berubah-ubah menurut kecepatan sintesis protein",
+      "E": "Membentuk rangkaian DNA sebagai pembawa informasi kode-kode genetik"
+    }
+  },
+  {
+    "question": "Interfase yang terdiri atas fase G1, S, dan G2 merupakan tahapan yang memerlukan waktu paling lama dalam siklus sel.\n<p><h1>SEBAB</h1></p>\nSelama interfase, sel mengalami masa istirahat dan aktivitasnya terbatas pada pembentukan kromosom untuk persiapan mitosis.",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "Jika pernyataan benar, alasan benar, dan keduanya menunjukkan hubungan sebab-akibat",
+      "B": "Berhubungan erat dengan pengikatan asam amino-asam amino yang akan disusun menjadi protein",
+      "C": "Berhubungan erat dengan penegndalian factor-faktor keturunan dan sintesis protein",
+      "D": "Berhubungan erat dengan sintesis protein dan kadarnya berubah-ubah menurut kecepatan sintesis protein",
+      "E": "Membentuk rangkaian DNA sebagai pembawa informasi kode-kode genetik"
+    }
+  },
+  {
+    "question": "Pada sitokinesis dihasilkan sel anak yang memiliki susunan kromosom selalu sama dengan induk.\n<p><h1>SEBAB</h1></p>\nSitokinesis terjadi setelah kromosom mengalami penggandaan pada tahap telofase",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "Secara langsung mengendalikan aktivitas sel-sel dalam merangkai urutan asam amino-asam amino",
+      "B": "Berhubungan erat dengan pengikatan asam amino-asam amino yang akan disusun menjadi protein",
+      "C": "Berhubungan erat dengan penegndalian factor-faktor keturunan dan sintesis protein",
+      "D": "Berhubungan erat dengan sintesis protein dan kadarnya berubah-ubah menurut kecepatan sintesis protein",
+      "E": "Membentuk rangkaian DNA sebagai pembawa informasi kode-kode genetik"
+    }
+  },
+  {
+    "question": "Seorang siswa mengamati sel ujung akar bawang merah yang sedang aktif membelah. Siswa menemukan sebuah sebuah sel yang kromosomnya menebal, membrane intinya tidak tampak, serta memiliki dua sentriol yang tampak menuju ke kutub yang berbeda. Keadaan tersebut menunjukkan bahwa sel sedang mengalami proses pembelahan pada fase…",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "Interfase",
+      "B": "Anaphase",
+      "C": "Metaphase",
+      "D": "Profase",
+      "E": "Telofase"
+    }
+  },
+  {
+    "question": "Pernyataan berikut ada hubungannya dengan pembelahan sel : \n<p><h1>1)terjadi pada sel tubuh</h1></p>\n<p><h1>2)jumlah kromosom sel anak separuh dari sel induk</h1></p>\n<p><h1>3)jumlah kromosom anak sama dengan kromosom induk</h1></p>\n<p><h1>4)terjadi dalam pembentukan sel kelamin</h1></p>\n<p><h1>5)pembelahan berlangsung 2 kali</h1><p>\nCiri khas mitosis adalah …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "1 dan 2",
+      "B": "1 dan 3",
+      "C": "2 dan 5",
+      "D": "3 dan 4",
+      "E": "3 dan 5"
+    }
+  },
+  {
+    "question": "Pernyataan dibawah ini berhubungan dengan, pembelahan sel.\n<p><h1>1)Jumlah sel anak yang dihasilkan</h1></p>\n<p><h1>2)Tempat berlangsungnya pembelahan</h1></p>\n<p><h1>3)Jumlah kromosom sel anak</h1></p>\n<p><h1>4)Besarnya sel yang membelahPerbedaan antara pembelahan mitosis dan meiosis terletak pada….</h1></p>\n",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "1, 2 dan 3",
+      "B": "1 dan 2",
+      "C": "2 dan 3",
+      "D": "2 dan 4",
+      "E": "3 dan 4"
+    }
+  },
+  {
+    "question": "Pada pembelahan meiosis II mikrosporogenesis akan terbentuk …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "2 mikrospora haploid",
+      "B": "2 mikrospora diploid",
+      "C": "2 mikrospora haploid",
+      "D": "4 mikrospora haploid",
+      "E": "4 mikrospora diploid"
+    }
+  },
+  {
+    "question": "Pada pembelahan sel mitosis, pemisahan kromatid dari sentromer terjadi pada …",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "profase",
+      "B": "metafase",
+      "C": "anafase",
+      "D": "telofase",
+      "E": "interfase"
+    }
+  },
+  {
+    "question": "Pernyataan yang tepat mengenai gambar tersebut adalah ?",
+    "correct_answer": "C",
+    "image": "assets/soal/soal26.png",
+    "choices": {
+      "A": "Proses pembelahan sel somatic",
+      "B": "Proses regenarasi sel",
+      "C": "Pembelahan yang mereduksi jumlah kromosom",
+      "D": "Perbanyakan sel gamet betina",
+      "E": "Pembelahan biner gamet jantan"
+    }
+  },
+  {
+    "question": "Organel yang berfungsi mengatur arah pembelahan sel adalah …",
+    "correct_answer": "E",
+    "image": null,
+    "choices": {
+      "A": "Mitokondria",
+      "B": "Sentriol",
+      "C": "Polisom",
+      "D": "Mikrofilamen",
+      "E": "Sentromer"
+    }
+  },
+  {
+    "question": "Hasil akhir peristiwa oogenesis adalah …",
+    "correct_answer": "E",
+    "image": null,
+    "choices": {
+      "A": "Empat ovum fungsional",
+      "B": "Empat ootid",
+      "C": "Dua ootid dan dua badan kutub abnormal",
+      "D": "Satu badan kutub primer dan tiga ootid sekunder",
+      "E": "Satu ovum fungsional dan tiga badan kutub"
+    }
+  },
+  {
+    "question": "Pada peristiwa megasporagenesis dihasilkan inti haploid yang berada di dekat mikrofil yang disebut sebagai",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "Sinergid",
+      "B": "Ovum",
+      "C": "Antipoda",
+      "D": "IKLS",
+      "E": "kalaza"
+    }
+  },
+  {
+    "question": "Yang berperan sebagai sel induk, bersifat diploid, yang terdapat diruang serbuk sari adalah …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "Mikrospora",
+      "B": "Mikrosporosit",
+      "C": "Spermatid",
+      "D": "Spermatosit primer",
+      "E": "Spermatosit sekunder"
+    }
+  },
+  {
+    "question": "Pada fase mitosis manakah terjadi duplikasi kromosom?",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Profase",
+      "B": "Pada setiap tahap kecuali telofase",
+      "C": "Pada setiap tahap kecuali anaphase dan telofase",
+      "D": "Hanya pada metaphase",
+      "E": "Jawaban a dan b benar"
+    }
+  },
+  {
+    "question": "Manakah pernyataan tentang mitosis yang tidak tepat?",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Sentromer terpisah pada awal anaphase",
+      "B": "Kromosom homolog bergabung pada profase",
+      "C": "Inti sel anak identic inti induknya",
+      "D": "Pusat mitosis mengatur mikrotubulus dari serat gelendong",
+      "E": "Satu inti menghasilkan dua inti yang identik"
+    }
+  },
+  {
+    "question": "Pada meiosis …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "Tidak terbentuk gelendong",
+      "B": "Kromosom homolog bergabung pada profase I",
+      "C": "Satu inti menghasilkan dua inti yang identic",
+      "D": "Inti sel anak identic dengan inti induknya",
+      "E": "Sentromer terpisah pada awal anaphase I"
+    }
+  },
+  {
+    "question": "Selama pembelahan sel terjadi perubahan secara berurutan …",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "Kromatin -> kromatid -> kromosom",
+      "B": "Butir kromatin -> kromatid -> benang kromatin -> kromosom",
+      "C": "Kromosom -> kromatin -> kromatid",
+      "D": "Butir kromatin -> benang kromatin -> kromosom -> kromatid",
+      "E": "Kromatid -> kromatin -> kromosom"
+    }
+  },
+  {
+    "question": "Ciri fisiologis kehidupan yang bertujuan untuk melestarikan jenis adalah …",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "Nutrisi",
+      "B": "Respirasi",
+      "C": "Transportasi",
+      "D": "Reproduksi",
+      "E": "Sintesis"
+    }
+  },
+  {
+    "question": "Perhatikan tabel berikut! Jika urutan basa nitrogen DNAadalah 3' TGC TCG CAT '5, asam amino yang akan tersusun adalah…",
+    "correct_answer": "A",
+    "image": "assets/soal/soal36.png",
+    "choices": {
+      "A": "treonin, serin, leusin",
+      "B": "treonin, sistein, treonin",
+      "C": "leusin, serin, leusin",
+      "D": "glisin, teronin, sistein",
+      "E": "serin, sistein, treonin"
+    }
+  },
+  {
+    "question": "Berikut ini enzim yang berperan dalam replikasi DNA adalah ...",
+    "correct_answer":"B",
+    "image": null,
+    "choices": {
+      "A": "RNA Polimerase",
+      "B": "Ligase",
+      "C": "Leusin",
+      "D": "DNA Retriksi",
+      "E": "Amino acyl cintetase"
+    }
+  },
+  {
+    "question": "Berikut ini bukan merupakan proses yang terjadi pada sintesis protein adalah ....",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "RNAd keluar dari inti sel menuju ribosom",
+      "B": "RNAd dibentuk oleh DNA di dalam sitoplasma",
+      "C": "RNAt membawa asam amino menuju ribosom",
+      "D": "DNA merancang sintesis protein",
+      "E": "Di dalam ribosom terdapat RNAr"
+    }
+  },
+  {
+    "question": "Pernyataan yang salah tentang DNA adalah ....",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "rantainya double helix",
+      "B": "gulanya deoksiribosa",
+      "C": "basa nitrogennya: C, T, A, G",
+      "D": "letaknya di ribosom, sitoplasma, nukleus, plastida",
+      "E": "fungsinya sebagai pengendali faktor keturunan"
+    }
+  },
+  {
+    "question": "Kode genetik yang dibawa mRNA berdasarkan kode genetik dari …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "DNA",
+      "B": "rRNA",
+      "C": "tRNA",
+      "D": "ATP",
+      "E": "ADP"
+    }
+  },
+  {
+    "question": "Di bawah ini yang tidak termasuk sifat kromosom adalah ...",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "hanya terlihat saat sel membelah",
+      "B": "bersifat menyerap zat warna",
+      "C": "pada sel prokariotik dilindungi oleh membran inti",
+      "D": "pada sel eukariotik terletak dalam inti sel",
+      "E": "tersusun atas protein histon dan non histon"
+    }
+  },
+  {
+    "question": "Gen memiliki pasangan yang terletak pada titik yang sama di kromosom homolog dikenal dengan istilah ... ",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Alel",
+      "B": "Lokus",
+      "C": "Genotip",
+      "D": "Fenotip",
+      "E": "DNA"
+    }
+  },
+  {
+    "question": "Kode genetik yang terbentuk dari triplet-triplet pada mRNA dan berfungsi menentukan jenis asam amino adalah....",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "kodon",
+      "B": "alel",
+      "C": "DNA",
+      "D": "RNA",
+      "E": "Kromosom"
+    }
+  },
+  {
+    "question": "Salah satu anggota keluarga menderita kelainan, yaitu tubuh terlalu tinggi dan besar. Hal ini terjadi karena kelebihan produksi hormon pertumbuhan. Tetapi menurut silsilah keluarganya, belum pernah terdapat keadaan seperti ini. Kelebihan produksi itu, kemungkinan disebabkan oleh….",
+    "correct_answer": "C",
+    "image": null,
+    "choices": {
+      "A": "RNA transfer salah menerjemahkan kode",
+      "B": "RNA ribosom salah menerima kode",
+      "C": "RNA duta salah membuat cetakan",
+      "D": "RNA salah membawa kode",
+      "E": "Ribosom salah menerjemahkan kode"
+    }
+  },
+  {
+    "question": "Gunakan kodon untuk menjawab soal ini!\n<p><h1>GUG-Valin</h1></p>\n<p><h1>AAG-Lisin</h1></p>\n<p><h1>GCA-Alanin</h1></p>\n <p><h1>UGU-Sistein</h1></p>\n<p><h1>CGA-Prolin</h1></p>\nApabila RNA hasil transkripsi mempunyai urutan basa nitrogen AAG GUG CGA UGU, maka polipeptida yang terbentuk mempunyai urutan asam amino…",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "valin – lisin – alanin – sistein",
+      "B": "lisin – alanin – sistein – prolin",
+      "C": "alanin – sistein – prolin – valin",
+      "D": "lisin – valin – prolin – sistein",
+      "E": "prolin – alanin – lisin- sistein"
+    }
+  },
+  {
+    "question": "Gen adalah subtansi genetika yang membawa sifat menurun. Gen terletak pada …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "nukleus",
+      "B": "lokus",
+      "C": "kromosom",
+      "D": "Sitoplasma",
+      "E": "Protoplasma"
+    }
+  },
+  {
+    "question": "Salah satu tujuan dari pembelahan secara meiosis adalah untuk...",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "bertambah besarnya organ",
+      "B": "menjaga jumlah kromosom pada keturunan",
+      "C": "penggantian sel-sel yang rusak",
+      "D": "bertambah banyaknya organ",
+      "E": "bertambah fungsi organ"
+    }
+  },
+  {
+    "question": "Sel haploid pada suatu tumbuhan mengandung 5 kromosom. Pernyataan yang benar adalah...",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "sel daun mengandung 5 kromosom",
+      "B": "sel biji hasil fertilisasi mengandung 5 kromosom",
+      "C": "serbuk sari mengandung 10 kromosom",
+      "D": "sel akar mengandung 10 kromosom",
+      "E": "endosperm mengandung 10 kromosom"
+    }
+  },
+  {
+    "question": "Istilah fase S menunjukkan...",
+    "correct_answer": "E",
+    "image": null,
+    "choices": {
+      "A": "sintesis protein kromosom selama profase",
+      "B": "gametogenesis pada sel-sel hewan",
+      "C": "sinapsis pada kromosom homolog",
+      "D": "sintesis organel-organel sel",
+      "E": "sintesis DNA selama interfase"
+    }
+  },
+  {
+    "question": "Sebuah sel yang diamati melalui mikroskop dan tampak seperti gambar berikut ! Proses yang terjadi dalam sel tersebut adalah ...",
+    "correct_answer": "B",
+    "image": "assets/soal/soal50.png",
+    "choices": {
+      "A": "Setiap pasangan kromosom homolog berpisah dan bergerak ke arah kutub berlawanan",
+      "B": "Kromatid memadat serta bergerak ke arah kutub berlawanan",
+      "C": "Kromosom berada pada bidang equator.",
+      "D": "Kromosom berduplikasi membujur ke arah kutub berlawanan.",
+      "E": "Kromosom berpegangan pada benang gelondong pembelahan."
+    }
+  },
+  {
+    "question": "Untuk mengubah suatu nukleosida menjadi nukleotida, hal yang perlu dilakukan adalah …",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "Menggabungkan dua nukleosida dengan menggunakan sintesis dehidrasi",
+      "B": "Mengeluarkan gula pentose dari nukelosida tersebut",
+      "C": "Mengganti purin dengan pirimidin",
+      "D": "Menambahkan gugus fosfat ke nukelosida",
+      "E": "Mengganti gula ribose dengan deoksiribosa"
+    }
+  },
+  {
+    "question": "Jika suatu DNA template memiliki 210 nukleotida, banyak asam amino yang akan terbentuk adalah sebanyak …",
+    "correct_answer": "E",
+    "image": null,
+    "choices": {
+      "A": "630",
+      "B": "420",
+      "C": "210",
+      "D": "105",
+      "E": "70"
+    }
+  },
+  {
+    "question": "Rekayasa genetika dapat dilakukan dengan mengganti materi genetic sel bakteri dengan materi genetic organisme lain yang diinginkan sehingga sifat bakteri berubah sesuai dengan yang diinginkan, Materi genetic yang diganti adalah …",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "RNAd",
+      "B": "RNAt",
+      "C": "RNAr",
+      "D": "DNA",
+      "E": "Inti sel"
+    }
+  },
+  {
+    "question": "Pernyataan yang benar tentang kodon adalah …",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "Terdiri atas tiga pasang nukleotida",
+      "B": "Dapat emngkode asam amino yang sama dengan kodon lain",
+      "C": "Dapat mengkode lebih dari satu asam amino",
+      "D": "Merupakan triplet basa pada RNAt",
+      "E": "Dapat mengikat asam amino saat proses translasi"
+    }
+  },
+  {
+    "question": "Padas el eukariotik, transkripsi tidakd apat dimulai hingga …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Kedua untai DNA telah terpisah dan terpapar pada promotor",
+      "B": "Factor transkripsi yang sesuai telah terikat pada promotor",
+      "C": "Tutup 5’ dipindahkan dari RNAd",
+      "D": "Intron DNA dikeluarkan dari cetakan",
+      "E": "Nuclease DNA telah mengisolasi unit transkripsi dari DNA bukan pengkode"
+    }
+  },
+  {
+    "question": "Seorang biokimiawan mengisolasi dan memurnikan berbagai molekul yang diperlukan untuk replikasi DNA. Saat ia menambahkan sejumlah DNA, replikasi terjadi, tetapi molekul-molekul DNA yang terbentuk rusak. Tiap-tiap molekul terdiri atas satu untai DNA normal yang berpasangan dengan banyak potongan segemn DNA. Molekul yang mungkin lupa ia tambahkan pada campuran itu adalah …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "DNA polymerase",
+      "B": "DNA ligase",
+      "C": "Nukleotida",
+      "D": "RNA polymerase",
+      "E": "Helikase"
+    }
+  },
+  {
+    "question": "Seorang ilmuwan mencampur komponen-komponen untuk sintesis protein dalam tabung reaksi: asam amino dari kucing, ribosom dari domba, RNAt dari marmot. RNAd dari monyet, serta enzim-enzim dan sumber energy dari sapi. Jika terjadi sintesis protein yang akan terbentuk adalah protein dari hewan …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Kucing",
+      "B": "Domba",
+      "C": "Marmot",
+      "D": "Monyet",
+      "E": "Sapi"
+    }
+  },
+  {
+    "question": "Sel otot polos tampak berbeda dengan sel otot lurik terutama karena kedua sel tersebut …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Mengekspresikan gen yang berbeda",
+      "B": "Memiliki susunan DNA yang berbeda",
+      "C": "Memiliki kromosom yang berbeda",
+      "D": "Memiliki ribosom yang berbeda",
+      "E": "Menggunakan kode genetic yang berbeda"
+    }
+  },
+  {
+    "question": "RNAd dihasilkan melalui proses ….",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "Replikasi DNA",
+      "B": "Tranksripsi DNA",
+      "C": "Translasi RNAt",
+      "D": "Transkripsi RNAt",
+      "E": "Translasi DNA"
+    }
+  },
+  {
+    "question": "Enzim yang berperan dalam proses transkripsi adalah …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "DNA polymerase",
+      "B": "RNA polymerase",
+      "C": "Katalase",
+      "D": "Ligase",
+      "E": "Amilase"
+    }
+  },
+  {
+    "question": "Meiosis II memiliki kesamaan dengan mitosis, yaitu …",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "Kromosom homolog mengalami sinapsis",
+      "B": "DNA bereplikasi sebelum pembelahan",
+      "C": "Sel anaknya adalah sel diploid",
+      "D": "Pasangan kromatid berpisah pada bagian sentromer",
+      "E": "Jumlah kromosomnya berkurang"
+    }
+  },
+  {
+    "question": "Di dalam testis, sel spermatosit sekunder mengalami meisosi II menghasilkan …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "2 sel spermatid haploid",
+      "B": "4 sel spermatid haploid",
+      "C": "4 sel spermatid diploid",
+      "D": "4 sel spermatosit primer haploid",
+      "E": "4 sel spermatosit primer haploid"
+    }
+  },
+  {
+    "question": "Arah pembelahan sel hewan diatur oleh organel yang disebut …",
+    "correct_answer": "A",
+    "image": null,
+    "choices": {
+      "A": "Sentriol",
+      "B": "Ribosom",
+      "C": "Sentromer",
+      "D": "Kinetokor",
+      "E": "mitokondria"
+    }
+  },
+  {
+    "question": "Produk yang dihasilkan langsung dari meiosis pada tumbuhan adalah …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "Spora",
+      "B": "Sel gamet",
+      "C": "Zigot",
+      "D": "Sporofit",
+      "E": "gametofit"
+    }
+  },
+  {
+    "question": "Kiasma emnghubungkan pasangan …",
+    "correct_answer": "B",
+    "image": null,
+    "choices": {
+      "A": "Kromosom homolog pada profase II",
+      "B": "Kromosom homolog pada profase I akhir",
+      "C": "Kromatid saudara saat metaphase II",
+      "D": "Kromatid saudara saat metaphase mitosis",
+      "E": "Kromatid saudara saat metafase I"
+    }
+  },
+  {
+    "question": "Nukleus diploid saat profase awal mitosis memiliki … set kromosom, dan saat telofase mitosis memiliki … set kromosom",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "1;1",
+      "B": "1;2",
+      "C": "2;1",
+      "D": "2;2",
+      "E": "2;4"
+    }
+  },
+  {
+    "question": "Sapi memiliki jumlah kromosom diploid 60,. Hasil dari mitosis II pada organ reproduksi sapi adalah …",
+    "correct_answer": "D",
+    "image": null,
+    "choices": {
+      "A": "2 sel anak yang mengandung 30 kromosom",
+      "B": "2 sel anak yang mengandung 60 kromosom",
+      "C": "2 sel anak yang mengandung 20 kromosom",
+      "D": "4 sel anak yang mengandung 30 kromosom",
+      "E": "4 sel anak yang mengandung 60 kromosom"
+    }
+  },
+  {
+    "question": "Pada Peristiwa pembuahan ganda, inti sel yang akan dibuahi oleh inti sperma I menghasilkan zigot ditunjuk oleh nomor …",
+    "correct_answer": "D",
+    "image": "assets/soal/soal68.png",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    }
+  },
+  {
+    "question": "Inti sel yang akan dibuahi oleh inti sel sperma II menghasilkan endosperma ditunjukkan oleh nomor …",
+    "correct_answer": "B",
+    "image": "assets/soal/soal68.png",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    }
+  },
+  {
+    "question": "Perhatikan gambar pembelahan sel untuk menghasilkan sel-sel gamet pada suatu organsime tersebut. Sel diploid dari organisme tersebut mengandung jumlah kromosom…",
+    "correct_answer": "C",
+    "image": "assets/soal/soal70.png",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "E": "32"
+    }
+  }
+]

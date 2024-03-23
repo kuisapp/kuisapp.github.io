@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Dibawah ini yang bukan merupakan pernyataan yang tepat tentang gen adalah …",
+      "correct_answer": "A",
+      "image": null,
+      "choices": {
+        "A": "Semua sifat ditentukan oleh satu gen",
+        "B": "Satu gen mengatur satu sifat",
+        "C": "Batas-batas antargen tidak dapat ditentukan secara pasti",
+        "D": "Jika gen berubah, berubah pula sifat makhluk hidup",
+        "E": "Gen diwariskan"
+      }
+    },
+    {
+      "question": "Which country is the largest by land area?",
+      "correct_answer": "C",
+      "image": "https://example.com/image.jpg",
+      "choices": {
+        "A": "Russia",
+        "B": "Canada",
+        "C": "China",
+        "D": "United States",
+        "E": "Brazil"
+      }
+    }
+  ]
+  

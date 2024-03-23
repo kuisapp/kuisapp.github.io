@@ -1,0 +1,17 @@
+.custom-btn {
+    width: 200px; /* Tentukan lebar yang diinginkan */
+    height: 60px; /* Tentukan tinggi yang diinginkan */
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.custom-font {
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    text-shadow: 
+        2px 2px 4px rgba(255, 255, 255, 1), /* Bayangan pertama */
+        -2px -2px 4px rgba(255, 255, 255, 1); 
+}
